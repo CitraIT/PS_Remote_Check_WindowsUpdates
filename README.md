@@ -1,2 +1,5 @@
 # PS_Remote_Check_WindowsUpdates
-Powershell Script to check remote windows servers for pending updates
+## Script powershell para verificar atualizações pendentes em servidores remotos.
+
+
+
